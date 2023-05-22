@@ -4,8 +4,8 @@ using namespace std;
 
 class mahasiswa {
 private:
-	const int id :
-	string nama :
+	const int id;
+	string nama;
 	float nilai;
 
 public:
@@ -19,3 +19,9 @@ public:
 		cout << "Nilai = " << nilai << endl;
 	}
 };
+
+int main() {
+	mahasiswa mhs(12, "Asroni", 90.5);
+
+	return 0;
+}

@@ -1,6 +1,6 @@
 #ifndef MANUSIA_H
 #define MANUSIA_H
-using namesapce std;
+using namespace std;
 
 class manusia {
 public:
@@ -15,3 +15,4 @@ public:
 		cout << name << " mati\n";
 	}
 };
+#endif

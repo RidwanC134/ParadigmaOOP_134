@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ParadigmaOOP_134", "Paradig
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Asosiasi_134", "Asosiasi_134\Asosiasi_134.vcxproj", "{58CD22C9-0237-4696-96F8-74BC6DD3AE2F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "mainIA_134", "mainIA_134\mainIA_134.vcxproj", "{85232ECF-A503-4437-BC24-F0DCFA635903}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|arm64 = Debug|arm64
@@ -41,6 +43,18 @@ Global
 		{58CD22C9-0237-4696-96F8-74BC6DD3AE2F}.Release|x64.Build.0 = Release|x64
 		{58CD22C9-0237-4696-96F8-74BC6DD3AE2F}.Release|x86.ActiveCfg = Release|Win32
 		{58CD22C9-0237-4696-96F8-74BC6DD3AE2F}.Release|x86.Build.0 = Release|Win32
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Debug|arm64.ActiveCfg = Debug|arm64
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Debug|arm64.Build.0 = Debug|arm64
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Debug|x64.ActiveCfg = Debug|x64
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Debug|x64.Build.0 = Debug|x64
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Debug|x86.ActiveCfg = Debug|Win32
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Debug|x86.Build.0 = Debug|Win32
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Release|arm64.ActiveCfg = Release|arm64
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Release|arm64.Build.0 = Release|arm64
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Release|x64.ActiveCfg = Release|x64
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Release|x64.Build.0 = Release|x64
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Release|x86.ActiveCfg = Release|Win32
+		{85232ECF-A503-4437-BC24-F0DCFA635903}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
